@@ -1,0 +1,15 @@
+.button {
+    margin-left: 40px;
+    padding: 12px;
+    background-color: red;
+    color: wheat;
+    cursor: pointer;
+}
+
+.button:hover, .button:focus {
+    background-color: purple;
+}
+
+.odd {
+    background-color: green;
+}
